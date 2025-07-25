@@ -9,7 +9,7 @@ body {
     padding: 24px;
     background-color: antiquewhite;
     border-radius: 16px;
-    margin: 40px auto;
+    margin: 40px auto 35px;
 }
 
 h1 {
@@ -39,4 +39,10 @@ img {
     margin: 19px;
     font-family: 'Palatino Linotype', 'Book Antiqua', Palatino, serif;
 
+}
+
+footer {
+    color: antiquewhite;
+    text-align: center;
+    padding-bottom: 48px;
 }
